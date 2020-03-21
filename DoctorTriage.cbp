@@ -32,6 +32,10 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="DoctorTriage.cfg" />
+		<Unit filename="Patient.cpp" />
+		<Unit filename="Patient.h" />
+		<Unit filename="fr.lgg" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<code_completion />

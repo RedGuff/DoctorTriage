@@ -9,6 +9,8 @@ class Patient
     public:
  Patient();
     void display();
+//    void rec(string file= "log.txt");
+    void rec();
 
     private:
      // m_ car variable membre : https://openclassrooms.com/fr/courses/1894236-programmez-avec-le-langage-c/1897344-creez-les-classes-partie-1-2
